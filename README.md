@@ -18,6 +18,7 @@
 |\<runs\>|Number of simulations (only for vulnerability.py script).|
 
 <br />
+
 - Use simulate.py for simulating Dining Cryptographers and Crowds anonymity protocols.<br />
  ```
  python3 simulate.py <dc|crowds> <graph_file> <c> <users_file> 
