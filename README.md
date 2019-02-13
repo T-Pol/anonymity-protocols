@@ -5,6 +5,8 @@
 
 #### Usage
 
+- You need to provide the following parameters in order to use the following Programms.
+  - [dc|crowds] provide the protocol you want to simulate or attack to
 - Use simulate.py for simulating Dining Cryptographers and Crowds anonymity protocols.<br />
  ```
  python3 simulate.py <dc|crowds> <graph_file> <c> <users_file> 
