@@ -13,7 +13,7 @@
   - <prior-file>    Name or path of the file containing sender's probability distribution (only for non-corrupted users)
   - <output-file>   Name or path of output file created by simulate.py (only for attacker.py script)
   - <runs>          Number of simulations (only for vulnerability.py script)
- <br />
+
 - Use simulate.py for simulating Dining Cryptographers and Crowds anonymity protocols.<br />
  ```
  python3 simulate.py <dc|crowds> <graph_file> <c> <users_file> 
