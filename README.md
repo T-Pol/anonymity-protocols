@@ -16,8 +16,8 @@
   
 | Parameter | Description |
 | --- | --- |
-| [dc|crowds] | The protocol you want to simulate or attack to. |
-| \<graph-file\> | Name or path of the file containing graph adjacency matrix. |
+| \[dc\|crowds\] | The protocol you want to simulate or attack to. |
+| \<graph\-file\> | Name or path of the file containing graph adjacency matrix. |
 
 - Use simulate.py for simulating Dining Cryptographers and Crowds anonymity protocols.<br />
  ```
