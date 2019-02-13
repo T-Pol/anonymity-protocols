@@ -7,7 +7,7 @@
 
 - Depending on the script that you want to use, you need to provide some of the following parameters.
   - [dc|crowds]     The protocol you want to simulate or attack to.
-  -  <graph-file>    Provide name or path of the file containing graph adjacency matrix.
+  - '<graph-file>'    Name or path of the file containing graph adjacency matrix.
   - <c>             Number of corrupted users (0 for none).
   - <users-file>    Name of the file containing senders id (one execution per line)
   - <prior-file>    Name or path of the file containing sender's probability distribution (only for non-corrupted users)
