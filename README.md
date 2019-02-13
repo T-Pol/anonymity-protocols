@@ -3,7 +3,7 @@
 #### Requirements
 * Python >= 3.6
 
-#### Usage
+#### Usage:
 
 - Depending on the script that you want to use, you need to provide some of the following parameters.
 
