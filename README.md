@@ -13,10 +13,11 @@
   - **\<prior-file\>**    Name or path of the file containing sender's probability distribution (only for non-corrupted users)
   - **\<output-file\>**   Name or path of output file created by simulate.py (only for attacker.py script)
   - **\<runs\>**          Number of simulations (only for vulnerability.py script)
-  | Parameter | Description |
-  | --- | --- |
-  | [dc|crowds] | The protocol you want to simulate or attack to. |
-  | \<graph-file\> | Name or path of the file containing graph adjacency matrix. |
+  
+| Parameter | Description |
+| --- | --- |
+| [dc|crowds] | The protocol you want to simulate or attack to. |
+| \<graph-file\> | Name or path of the file containing graph adjacency matrix. |
 
 - Use simulate.py for simulating Dining Cryptographers and Crowds anonymity protocols.<br />
  ```
