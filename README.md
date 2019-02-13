@@ -6,8 +6,10 @@
 #### Usage
 
 - Use simulate.py for simulating Dining Cryptographers and Crowds anonymity protocols.<br />
- Example: python3 simulate.py <dc|crowds> <graph_file> <c> <users_file> 
-
+ Example: 
+ ```
+ python3 simulate.py <dc|crowds> <graph_file> <c> <users_file> 
+ ```
 - Use attack.py for predicting the user that initiated a message.<br />
 Example: python3 attack.py <dc|crowds> <graph_file> <c> <prior_file> <output>  
 
